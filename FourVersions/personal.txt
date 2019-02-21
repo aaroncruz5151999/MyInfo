@@ -5,3 +5,4 @@ Birthday: May 15, 1999
 Major: Mechanical Engineering
 Citizenship: Filipino
 Religion: Roman Catholic
+Civil status: Single
