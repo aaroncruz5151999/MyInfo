@@ -6,3 +6,4 @@ Major: Mechanical Engineering
 Citizenship: Filipino
 Religion: Roman Catholic
 Civil status: Single
+Section: 1-12
